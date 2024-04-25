@@ -2,10 +2,11 @@
     <div class="top_header_area row m0">
         <div class="container">
             <div class="float-left">
-                <a href="tell:+18004567890"><i class="fa fa-phone" aria-hidden="true"></i> + (1800) 456 7890</a>
-                <a href="mainto:info@cakebakery.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                    info@cakebakery.com</a>
+                <a href="tel:+92 3166013661"><i class="fa fa-phone" aria-hidden="true"></i> +92 3166013661</a>
+                <a href="mailto:nasirhamza078@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>
+                nasirhamza078@gmail.com</a>
             </div>
+
             <div class="float-right">
                 <ul class="h_social list_style">
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -47,7 +48,8 @@
 
                     </ul>
                     <ul class="navbar-nav justify-content-end">
-                        <li><a href="service.php">Sercices</a></li>
+                        <li><a href="display-chef.php">Chef</a></li>
+                        <li><a href="service.php">Services</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
                         <li><a href="login.php">Logout</a></li>
                     </ul>

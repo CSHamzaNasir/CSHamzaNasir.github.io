@@ -1,0 +1,52 @@
+  body {
+        background-color: pink;
+    }
+
+    h2 {
+        text-align:center;
+        color: #3e606b;
+        font-family: "Playfair Display", serif;
+    }
+
+    form {
+        margin-top: 50px;
+        background-color: #fce4ec;
+        /* Pink */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    form table {
+        width: 100%;
+    }
+
+    form td {
+        padding: 10px;
+    }
+
+    form input[type="text"],
+    form input[type="submit"] {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-bottom: 10px;
+        border: none;
+        border-radius: 5px;
+    }
+
+    form input[type="submit"] {
+        background-color: #fff;
+        /* White */
+        color: #ff4081;
+        /* Pink */
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.3s, color 0.3s;
+    }
+
+    form input[type="submit"]:hover {
+        background-color: #ff4081;
+        /* Pink */
+        color: #fff;
+        /* White */
+    }
